@@ -1,2 +1,2 @@
 # Job-Search_Web-Scraping
-pull data from a website 
+Pulls data directly from a website 
